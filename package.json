@@ -1,0 +1,16 @@
+{
+    "name": "test-osb-www-marketing-events-portlet",
+    "version": "1.0.0",
+    "description": "Test remote services for marketing events",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Allen Ziegenfus <allen.ziegenfus@liferay.com> (https://www.liferay.com/web/allen.ziegenfus/blog)",
+    "license": "ISC",
+    "dependencies": {
+        "liferay-json": "https://github.com/allen-ziegenfus/liferay-json",
+        "minimist": "^1.2.0",
+        "winston": "^2.2.0"
+    }
+}

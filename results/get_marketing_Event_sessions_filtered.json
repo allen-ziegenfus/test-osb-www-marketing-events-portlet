@@ -1,0 +1,277 @@
+[
+	{
+		"marketingEventSessionId": 214993961,
+		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
+		"users": [
+			{
+				"firstName": "Huage",
+				"lastName": "Chen"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214994371,
+		"titleCurrentValue": "<b>Getting Used to Liferay's API</b>",
+		"users": [
+			{
+				"firstName": "Olaf",
+				"lastName": "Kock"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214996078,
+		"titleCurrentValue": "<b>Développer sous Liferay DXP, qu’est-ce que ça change pour vous ?</b>",
+		"users": [
+			{
+				"firstName": "Huage",
+				"lastName": "Chen"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214997145,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 214998626,
+		"titleCurrentValue": "<b>From Zero to Production in 1 Conference Talk Time</b>",
+		"users": [
+			{
+				"firstName": "Milen",
+				"lastName": "Dyankov"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214998839,
+		"titleCurrentValue": "<b>Liferay as a Microservices Platform</b>",
+		"users": [
+			{
+				"firstName": "Daniel",
+				"lastName": "Reuther"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214998979,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 214999179,
+		"titleCurrentValue": "<b>Développer les portlets sur Node.js à l'aide d'Ember.js</b>",
+		"users": [
+			{
+				"firstName": "Bertrand",
+				"lastName": "Pinel"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214999610,
+		"titleCurrentValue": "<b>Développement : Mettez le turbo !</b>",
+		"users": [
+			{
+				"firstName": "Sébastien",
+				"lastName": "Le Marchand"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 214999923,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 214999991,
+		"titleCurrentValue": "<b>Mise en place d’une stratégie de tests automatisée avec Liferay </b>",
+		"users": [
+			{
+				"firstName": "Anthony",
+				"lastName": "Baudouin"
+			},
+			{
+				"firstName": "Olivier",
+				"lastName": "Grouhan"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215000173,
+		"titleCurrentValue": "<b>Omnichannel Experiences in Liferay - Living in a Mobile World</b>",
+		"users": [
+			{
+				"firstName": "Javier",
+				"lastName": "Gamarra"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215000454,
+		"titleCurrentValue": "<b>Session de Clôture</b>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 227932219,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Community Meetup</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215003131,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Accueil - Inscription</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215003334,
+		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
+		"users": [
+			{
+				"firstName": "Franck",
+				"lastName": "Verbeke"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 222800311,
+		"titleCurrentValue": "<b>3 minutes pour convaincre : Orange Applications for Business</b>",
+		"users": [
+			{
+				"firstName": "Laurent",
+				"lastName": "Bodet"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 222800502,
+		"titleCurrentValue": "<b>3 minutes pour convaincre : GFI Informatique</b>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215003708,
+		"titleCurrentValue": "<b>Keynote : Quoi de neuf chez Liferay ?</b>",
+		"users": [
+			{
+				"firstName": "Bryan",
+				"lastName": "Cheung"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215003937,
+		"titleCurrentValue": "<b>L’entreprise & la Renaissance Numérique</b>",
+		"users": [
+			{
+				"firstName": "Serge",
+				"lastName": "Soudoplatoff"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215004300,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215004722,
+		"titleCurrentValue": "<b>Témoignage AIRBUS - Replacer l’utilisateur au centre de l’activité</b>",
+		"users": [
+			{
+				"firstName": "Nicolas",
+				"lastName": "Fanjeau"
+			},
+			{
+				"firstName": "Véronique",
+				"lastName": "Charbonnel"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215004832,
+		"titleCurrentValue": "<b>Témoignage DANONE - Intranet Factory</b>",
+		"users": [
+			{
+				"firstName": "Hugues",
+				"lastName": "Fossey"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215005440,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215005040,
+		"titleCurrentValue": "<b>Témoignage TOTAL -  Une usine à portails métier</b>",
+		"users": [
+			{
+				"firstName": "Matthieu",
+				"lastName": "Codron"
+			},
+			{
+				"firstName": "Gilles",
+				"lastName": "Villautreix"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215005621,
+		"titleCurrentValue": "<b>Témoignage MSHEIREB -  Un service de eConciergerie pour les usagers</b>",
+		"users": [
+			{
+				"firstName": "Frédéric",
+				"lastName": "Vaz e Silva"
+			},
+			{
+				"firstName": "Arnaud",
+				"lastName": "Choain"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215005912,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
+		"users": []
+	},
+	{
+		"marketingEventSessionId": 215005701,
+		"titleCurrentValue": "<b>Témoignage CNAF - L’Offre Partenaire CNAF, un portail multi-canal </b>",
+		"users": [
+			{
+				"firstName": "Christophe",
+				"lastName": "Roussel"
+			},
+			{
+				"firstName": "Christophe",
+				"lastName": "Millot"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215006846,
+		"titleCurrentValue": "<b>Roadmap Liferay</b>",
+		"users": [
+			{
+				"firstName": "Edwin",
+				"lastName": "Chung"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215008105,
+		"titleCurrentValue": "<b>Session de Clôture</b>",
+		"users": [
+			{
+				"firstName": "Franck",
+				"lastName": "Verbeke"
+			}
+		]
+	},
+	{
+		"marketingEventSessionId": 215008700,
+		"titleCurrentValue": "<span class=\"primary-color\"><b>Cocktail de Networking</b></span>",
+		"users": []
+	}
+]

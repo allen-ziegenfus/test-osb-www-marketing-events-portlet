@@ -1,0 +1,32 @@
+[
+	{
+		"addressId": 166571728,
+		"companyId": 10155,
+		"createDate": 1470437463000,
+		"dateTBA": false,
+		"endDate": 1305086460000,
+		"globalRegion": 1,
+		"hostedBy": "Liferay, Inc.",
+		"hostedByURL": "",
+		"imageFileEntryId": 0,
+		"imageFileEntryURL": "",
+		"marketingEventId": 166571727,
+		"modifiedDate": 1470437463000,
+		"online": false,
+		"registrationType": 1,
+		"registrationURL": "http://www.liferay.com/events/liferay-symposiums/east-coast-2011/agenda",
+		"siteGroupId": 0,
+		"slidesFileEntryId": 0,
+		"startDate": 1305086400000,
+		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Summary language-id=\"en_US\">&lt;p>\n\tLiferay's third annual East Coast Symposium will be held in beautiful Leesburg, Virginia on May 10-11, 2011. The Symposium is a great opportunity for learning, knowledge sharing, and networking.&lt;/p>\n</Summary></root>",
+		"summaryCurrentValue": "<p>\n\tLiferay's third annual East Coast Symposium will be held in beautiful Leesburg, Virginia on May 10-11, 2011. The Symposium is a great opportunity for learning, knowledge sharing, and networking.</p>\n",
+		"timeZoneId": "America/New_York",
+		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay East Coast Symposium 2011</Title></root>",
+		"titleCurrentValue": "Liferay East Coast Symposium 2011",
+		"titleURL": "http://www.liferay.com/events/liferay-symposiums/east-coast-2011/agenda",
+		"type": 1,
+		"userId": 7107641,
+		"userName": "Angela Wu",
+		"videoTitle": ""
+	}
+]

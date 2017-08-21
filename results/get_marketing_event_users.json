@@ -1,5 +1,7 @@
 [
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Scanderia",
 		"createDate": 1484128351000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Serge Soudoplatoff, polytechnicien, est un expert de la renaissance numérique, de la nouvelle économie de la connaissance et de son impact sur le monde de l'entreprise. Il est expert auprès de l'APM sur « la Renaissance numérique et son impact pour l'entreprise » et enseignant à l'Hetic et à l'ESCP-EAP. Il est également créateur de plusieurs start-up dont Scanderia, co-fondée avec Idriss Aberkane.</Description></root>",
@@ -14,28 +16,18 @@
 		"marketingEventUserId": 212199949,
 		"modifiedDate": 1486031275000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484128351000,
-				"marketingEventUserId": 212199949,
-				"modifiedDate": 1486031275000,
-				"socialLinkId": 231457402,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/sergesoudoplatoff",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484128351000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "a2bd7963-a8af-4b6f-8b3a-ba31873775a0"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484128802000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Bryan Cheung et l'un des fondateurs de l'entreprise depuis sa création en 2004 et dirige l'orientation stratégique de la société dans le monde entier et le développement commercial. S'appuyant sur son expérience technique, la compréhension des besoins des clients, et une passion pour les utilisateurs finaux, Bryan définit les orientations stratégiques de Liferay afin de respecter son engagement à fournir des solutions Business ciblées et efficaces à ses clients et sa communauté. Bryan est diplômé de l'Université de Californie, Berkeley, avec un diplôme en informatique. Bryan est un conférencier recherché dans les grands événements IT et de l'industrie Open Source.</Description></root>",
@@ -50,28 +42,18 @@
 		"marketingEventUserId": 212200671,
 		"modifiedDate": 1484128802000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484128802000,
-				"marketingEventUserId": 212200671,
-				"modifiedDate": 1484128802000,
-				"socialLinkId": 231457403,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/bryancheung",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484128802000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "c91874f7-f1c9-4e16-b1fe-06199d71af3d"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484128846000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Franck Verbeke a rejoint Liferay France fin 2012. Franck apporte à Liferay plus de 25 ans d'expérience commerciale et managériale. Il a notamment participé au développement business d'éditeurs logiciels et de sociétés high-tech en France et en Europe, tels que Fatwire, Magicaxess, Activard et Interleaf.</Description></root>",
@@ -86,28 +68,18 @@
 		"marketingEventUserId": 212200737,
 		"modifiedDate": 1484128846000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484128846000,
-				"marketingEventUserId": 212200737,
-				"modifiedDate": 1484128846000,
-				"socialLinkId": 231457404,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/franckverbeke",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484128846000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "837bba7b-18a1-468c-9c87-fe147b15398d"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484128918000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Huage a rejoint Liferay France en 2013 en tant que consultant technique pour supporter les clients et les partenaires français de Liferay, notamment sur l'architecture, l'implémentation et le développement avec Liferay Portal. Huage a travaillé précédemment chez FatWire et Oracle sur les produits de Web Content Management et Web Experience Management pendant 4 ans. Huage possède un diplôme d'ingénieur en informatique de l'INSA de Lyon.</Description></root>",
@@ -122,28 +94,18 @@
 		"marketingEventUserId": 212200844,
 		"modifiedDate": 1484128918000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484128918000,
-				"marketingEventUserId": 212200844,
-				"modifiedDate": 1484128918000,
-				"socialLinkId": 231457405,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/huagechen",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484128918000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "2079d915-5d70-4ca1-a21e-4c57f4d39b3a"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484129046000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Olaf a tout d’abord été un membre actif de la communauté Liferay, en 2008. Il a ensuite rejoint Liferay Allemagne en tant que conseiller technique et formateur en 2010 et gère actuellement le programme de formation en Europe. Il répond à de nombreuses questions concernant les caractéristiques des solutions Liferay, l'architecture et les meilleures pratiques lors de formations et conférences. En charge du podcast \"Radio Liferay\", il met en valeur le côté personnel des professionnels impliqués dans l’aventure Liferay et annonce les nouvelles fonctionnalités et activités à venir.</Description></root>",
@@ -158,28 +120,18 @@
 		"marketingEventUserId": 212201021,
 		"modifiedDate": 1484129046000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484129046000,
-				"marketingEventUserId": 212201021,
-				"modifiedDate": 1484129046000,
-				"socialLinkId": 231457406,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/olafkock",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484129046000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "3ddf462f-6a93-4840-a499-60609e4d10c0"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484129084000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Milen est consultant senior chez Liferay aidant certaines des plus grandes entreprises européennes à adopter et/ ou à migrer vers le portail Liferay. Avant de rejoindre Liferay en 2012, il a passé plus de 10 ans à la conception et au développement des solutions Java EE pour les principales sociétés européennes couvrant les domaines suivants : portail d'entreprise, e-commerce, intégration d'applications d'entreprise, applications Web pour les appareils mobiles et adaptation du contenu.</Description></root>",
@@ -194,28 +146,18 @@
 		"marketingEventUserId": 212201068,
 		"modifiedDate": 1484129084000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484129084000,
-				"marketingEventUserId": 212201068,
-				"modifiedDate": 1484129084000,
-				"socialLinkId": 231457407,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/milendyankov",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484129084000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "29230ff4-5e1e-42f3-85da-8a780b59701b"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484129274000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Ed a rejoint Liferay en 2005 et a géré de nombreux comptes stratégiques de Liferay. Son travail a inclus le développement de portail d'entreprise stratégique, l'analyse des processus d'affaires, et la réingénierie des processus. Ed a également une vaste expérience dans la conception, le développement global et la mise en œuvre de sites internet, intranet, extranet. Ed rejoint Liferay avec plus de 12 années d'expérience en consulting et gestion des produits. Avant Liferay, Ed a implémenté des solutions de portail pour des entreprises Global 1000. Il est titulaire d'un B.S. en chimie de l'Université de Californie, Los Angeles.</Description></root>",
@@ -230,28 +172,18 @@
 		"marketingEventUserId": 212201336,
 		"modifiedDate": 1484298244000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484129274000,
-				"marketingEventUserId": 212201336,
-				"modifiedDate": 1484298244000,
-				"socialLinkId": 231457408,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/edwinchung",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484129274000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "9e254531-6c85-420d-91d1-0214da1ee57c"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Ippon Technologies",
 		"createDate": 1486133905000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Directeur technique et Associé d'Ippon Technologies, Bertrand est intervenu sur plusieurs dizaines de projets Liferay ces 15 dernières années aussi bien pour en assurer la réalisation que pour des missions d'expertise ou de firefighting.</Description></root>",
@@ -266,28 +198,18 @@
 		"marketingEventUserId": 217352093,
 		"modifiedDate": 1488299530000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1486133905000,
-				"marketingEventUserId": 217352093,
-				"modifiedDate": 1488299530000,
-				"socialLinkId": 231457410,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/bertrandpinel",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1486133905000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "cd4e24a4-9250-405b-9bb5-56150023698c"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Consultant Technique",
 		"createDate": 1487061602000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Consultant indépendant, Sébastien opère sur des projets Liferay depuis bientôt 10 ans (dont plus de 6 au sein d’une société de services partenaire Gold de Liferay pendant cette période). Il est ainsi intervenu sur plus d’une vingtaine de projets Liferay, notamment auprès de plusieurs groupes du CAC40. Il y a assuré des missions aussi diverses que : développement, conception, cadrage technique initial, expertise technique, support aux équipes de développement, formation ou encore optimisation de performances.</Description></root>",
@@ -302,28 +224,18 @@
 		"marketingEventUserId": 220421727,
 		"modifiedDate": 1488184830000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1487061602000,
-				"marketingEventUserId": 220421727,
-				"modifiedDate": 1488184830000,
-				"socialLinkId": 231457411,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/sébastienle marchand",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1487061602000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "3c58a148-0229-47d9-8f5e-565c8ab73bc6"
 	},
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1487065651000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Javier Gamarra est Senior Software chez Liferay Screens. Avant Liferay, Javier a travaillé comme lead technique dans plusieurs domaines tels que l'industrie aérospatiale et le développement mobile. Dans ses temps libres, il organise des événements et des cours chez AgileCyL et des meetups chezune AgileSpain où il est membre du conseil d'administration.</Description></root>",
@@ -338,25 +250,13 @@
 		"marketingEventUserId": 220436500,
 		"modifiedDate": 1488902346000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1487065651000,
-				"marketingEventUserId": 220436500,
-				"modifiedDate": 1488902346000,
-				"socialLinkId": 231457412,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/javiergamarra",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1487065651000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "accd42dd-1964-4b28-b4ad-2fef2e7b55e6"
 	}
 ]

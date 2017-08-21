@@ -1,12 +1,32 @@
 [
 	{
-		"createDate": 1496052428000,
-		"imageFileEntryId": 14242,
-		"imageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-		"modifiedDate": 1496052428000,
+		"createDate": 1502145133000,
+		"imageFileEntryId": 0,
+		"imageFileEntryURL": "",
+		"modifiedDate": 1502145190000,
+		"name": "LinkedIn",
+		"socialLinkTypeId": 231611118,
+		"userId": 231399298,
+		"userName": "Junko Teramoto"
+	},
+	{
+		"createDate": 1502145142000,
+		"imageFileEntryId": 0,
+		"imageFileEntryURL": "",
+		"modifiedDate": 1502145142000,
 		"name": "Twitter",
-		"socialLinkTypeId": 231457401,
-		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"socialLinkTypeId": 231611119,
+		"userId": 231399298,
+		"userName": "Junko Teramoto"
+	},
+	{
+		"createDate": 1502145159000,
+		"imageFileEntryId": 0,
+		"imageFileEntryURL": "",
+		"modifiedDate": 1502145159000,
+		"name": "Facebook",
+		"socialLinkTypeId": 231611120,
+		"userId": 231399298,
+		"userName": "Junko Teramoto"
 	}
 ]

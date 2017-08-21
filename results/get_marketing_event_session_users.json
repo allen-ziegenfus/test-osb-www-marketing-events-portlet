@@ -1,5 +1,7 @@
 [
 	{
+		"companyLogoFileEntryId": 0,
+		"companyLogoFileEntryURL": "",
 		"companyName": "Liferay",
 		"createDate": 1484128846000,
 		"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Franck Verbeke a rejoint Liferay France fin 2012. Franck apporte à Liferay plus de 25 ans d'expérience commerciale et managériale. Il a notamment participé au développement business d'éditeurs logiciels et de sociétés high-tech en France et en Europe, tels que Fatwire, Magicaxess, Activard et Interleaf.</Description></root>",
@@ -14,25 +16,13 @@
 		"marketingEventUserId": 212200737,
 		"modifiedDate": 1484128846000,
 		"phoneNumber": "",
-		"socialLinks": [
-			{
-				"createDate": 1484128846000,
-				"marketingEventUserId": 212200737,
-				"modifiedDate": 1484128846000,
-				"socialLinkId": 231457404,
-				"socialLinkTypeId": 231457401,
-				"socialLinkTypeImageFileEntryURL": "/documents/10182/12610/social.png/cf863264-102d-4780-bfc0-eb739704772c?t=1437413502000",
-				"socialLinkTypeName": "Twitter",
-				"url": "https://twitter.com/franckverbeke",
-				"userId": 8134459,
-				"userName": "Rachel Horvelin"
-			}
-		],
+		"socialLinks": [],
 		"status": 0,
 		"statusByUserId": 8134459,
 		"statusByUserName": "Rachel Horvelin",
 		"statusDate": 1484128846000,
 		"userId": 8134459,
-		"userName": "Rachel Horvelin"
+		"userName": "Rachel Horvelin",
+		"uuid": "837bba7b-18a1-468c-9c87-fe147b15398d"
 	}
 ]

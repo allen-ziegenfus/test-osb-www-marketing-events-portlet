@@ -1,3 +1,4 @@
 {
-	"server": "https://www.liferay.com"
+	"server": "https://www.liferay.com",
+	"languageId": "en_US"
 }

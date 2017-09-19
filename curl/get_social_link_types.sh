@@ -1,0 +1,1 @@
+curl 'https://www.liferay.com/api/jsonws/invoke'  --data-urlencode 'cmd={"/osb-www-marketing-events-portlet.sociallinktype/get-social-link-types":{"start":0,"end":50}}'

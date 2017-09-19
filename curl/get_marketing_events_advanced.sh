@@ -1,0 +1,1 @@
+curl 'https://www.liferay.com/api/jsonws/invoke'  --data-urlencode 'cmd={"/osb-www-marketing-events-portlet.marketingevent/get-marketing-events":{"types":["1"],"globalRegions":[],"countryIds":[],"locationTypes":[],"pastEvents":false,"userLanguageId":"","orderByCol":"title","orderByType":"asc"}}'

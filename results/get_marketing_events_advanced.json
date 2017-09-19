@@ -1,77 +1,6 @@
 [
 	{
 		"address": {
-			"addressId": 231571017,
-			"city": "Brasília",
-			"classNameId": 122452621,
-			"classPK": 231571016,
-			"companyId": 10155,
-			"countryId": 48,
-			"createDate": 1499872247000,
-			"mailing": false,
-			"modifiedDate": 1501769748000,
-			"primary": true,
-			"regionId": 0,
-			"street1": "SHTN Trecho 1, Conj 1B",
-			"street2": "",
-			"street3": "",
-			"typeId": 0,
-			"userId": 143051734,
-			"userName": "Luciano Demery",
-			"uuid": "34a52f93-abcc-43ea-bf3b-b82c44516b65",
-			"zip": "N/A"
-		},
-		"addressId": 231571017,
-		"companyId": 10155,
-		"country": {
-			"a2": "BR",
-			"a3": "BRA",
-			"active": true,
-			"countryId": 48,
-			"idd": "055",
-			"name": "brazil",
-			"nameCurrentValue": "Brazil",
-			"number": "76",
-			"zipRequired": true
-		},
-		"createDate": 1499872247000,
-		"dateTBA": false,
-		"endDate": 1506456000000,
-		"extraSettings": "",
-		"extraSettingsJSONObject": {},
-		"globalRegion": 1,
-		"hostedBy": "Liferay",
-		"hostedByURL": "https://discover.liferay.com/digital-gov-br-2017",
-		"imageFileEntryId": 0,
-		"imageFileEntryURL": "",
-		"latitude": 0,
-		"longitude": 0,
-		"marketingEventId": 231571016,
-		"marketingEventSessionAssetCategoriesJSONObject": {
-			"MarketingEventSessionTypes": [],
-			"MarketingEventSessionTopics": [],
-			"MarketingEventTracks": []
-		},
-		"modifiedDate": 1501769748000,
-		"online": false,
-		"registrationType": 1,
-		"registrationURL": "https://discover.liferay.com/digital-gov-br-2017",
-		"siteGroupId": 0,
-		"slidesFileEntryId": 0,
-		"startDate": 1506425400000,
-		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Summary language-id=\"en_US\">&lt;span style=\"color: rgb(76, 76, 78); font-family: source-sans-pro, arial; font-size: 18px;\">Um evento planejado para o Setor Público, esse é o Digital Government Forum.&amp;nbsp;Liferay convida para participar dia 8 de agosto no Hotel Royal Tulip, em Brasília.&lt;/span></Summary></root>",
-		"summaryCurrentValue": "<span style=\"color: rgb(76, 76, 78); font-family: source-sans-pro, arial; font-size: 18px;\">Um evento planejado para o Setor Público, esse é o Digital Government Forum.&nbsp;Liferay convida para participar dia 8 de agosto no Hotel Royal Tulip, em Brasília.</span>",
-		"timeZoneId": "America/Sao_Paulo",
-		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Digital Government Forum Brazil</Title></root>",
-		"titleCurrentValue": "Digital Government Forum Brazil",
-		"titleURL": "",
-		"type": 1,
-		"userId": 143051734,
-		"userName": "Luciano Demery",
-		"videoTitle": ""
-	},
-	{
-		"address": {
 			"addressId": 213053897,
 			"city": "Amsterdam",
 			"classNameId": 122452621,
@@ -80,7 +9,7 @@
 			"countryId": 11,
 			"createDate": 1484690805000,
 			"mailing": false,
-			"modifiedDate": 1502838700000,
+			"modifiedDate": 1505460369000,
 			"primary": true,
 			"regionId": 0,
 			"street1": "Beurs van Berlage",
@@ -121,6 +50,48 @@
 		"longitude": 4.89611111,
 		"marketingEventId": 213053896,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay Unconference 2017</Title></root>",
+					"vocabularyId": 231559061,
+					"name": "Liferay Unconference 2017",
+					"categoryId": 231559062,
+					"properties": {
+						"Room": "Pakhuiz de Zwijger"
+					}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track A</Title></root>",
+					"vocabularyId": 231559061,
+					"name": "Track A",
+					"categoryId": 231559063,
+					"properties": {
+						"Room": "Grote Zaal"
+					}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track B</Title></root>",
+					"vocabularyId": 231559061,
+					"name": "Track B",
+					"categoryId": 231559064,
+					"properties": {
+						"Room": "Berlage Zaal"
+					}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track C</Title></root>",
+					"vocabularyId": 231559061,
+					"name": "Track C",
+					"categoryId": 231559065,
+					"properties": {
+						"Room": "Administratie Zaal"
+					}
+				}
+			],
 			"MarketingEventSessionTypes": [
 				{
 					"vocabularyName": "Marketing Event Session Types",
@@ -156,11 +127,13 @@
 			"MarketingEventSessionTopics": [
 				{
 					"vocabularyName": "Marketing Event Session Topics",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Backend Development</Title></root>",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Backend</Title></root>",
 					"vocabularyId": 231427929,
-					"name": "Backend Development",
+					"name": "Backend",
 					"categoryId": 231589402,
-					"properties": {}
+					"properties": {
+						"color": "00B8B9"
+					}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
@@ -168,14 +141,26 @@
 					"vocabularyId": 231427929,
 					"name": "DevOps",
 					"categoryId": 231589405,
-					"properties": {}
+					"properties": {
+						"color": "9BACB4"
+					}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Frontend Development</Title></root>",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Frontend</Title></root>",
 					"vocabularyId": 231427929,
-					"name": "Frontend Development",
+					"name": "Frontend",
 					"categoryId": 231589403,
+					"properties": {
+						"color": "00A4CB"
+					}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Topics",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">IoT</Title></root>",
+					"vocabularyId": 231427929,
+					"name": "IoT",
+					"categoryId": 231661544,
 					"properties": {}
 				},
 				{
@@ -184,7 +169,9 @@
 					"vocabularyId": 231427929,
 					"name": "Keynote",
 					"categoryId": 231567786,
-					"properties": {}
+					"properties": {
+						"color": "A363B6"
+					}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
@@ -192,7 +179,9 @@
 					"vocabularyId": 231427929,
 					"name": "Mobile",
 					"categoryId": 231567787,
-					"properties": {}
+					"properties": {
+						"color": "607D8B"
+					}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
@@ -200,7 +189,9 @@
 					"vocabularyId": 231427929,
 					"name": "New Features",
 					"categoryId": 231567785,
-					"properties": {}
+					"properties": {
+						"color": "3BA9A1"
+					}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
@@ -208,61 +199,21 @@
 					"vocabularyId": 231427929,
 					"name": "Upgrades",
 					"categoryId": 231589404,
-					"properties": {}
-				}
-			],
-			"MarketingEventTracks": [
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay Unconference 2017</Title></root>",
-					"vocabularyId": 231559061,
-					"name": "Liferay Unconference 2017",
-					"categoryId": 231559062,
 					"properties": {
-						"Room": "Pakhuiz de Zwijger"
-					}
-				},
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track A</Title></root>",
-					"vocabularyId": 231559061,
-					"name": "Track A",
-					"categoryId": 231559063,
-					"properties": {
-						"Room": "Grote Zaal"
-					}
-				},
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track B</Title></root>",
-					"vocabularyId": 231559061,
-					"name": "Track B",
-					"categoryId": 231559064,
-					"properties": {
-						"Room": "Berlage Zaal"
-					}
-				},
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Track C</Title></root>",
-					"vocabularyId": 231559061,
-					"name": "Track C",
-					"categoryId": 231559065,
-					"properties": {
-						"Room": "Administratie Zaal"
+						"color": "1477A8"
 					}
 				}
 			]
 		},
-		"modifiedDate": 1502838700000,
+		"modifiedDate": 1505460369000,
 		"online": false,
 		"registrationType": 0,
 		"registrationURL": "https://www.liferay.com/devcon",
 		"siteGroupId": 231427850,
 		"slidesFileEntryId": 0,
 		"startDate": 1507100400000,
-		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Summary language-id=\"en_US\">&lt;p>Meet Liferay developers and IT professionals to the fifth Liferay DEVCON in Amsterdam! Talk with Liferay engineers from around the world and gain valuable insights for your Liferay projects. Get answers to your questions, learn about new features and use the opportunity to help shape the Liferay community and development in a unique way. You can look forward to a lot of time to exchange knowledge, networking and fun.&lt;br />\n&amp;nbsp;&lt;br />\nThis year we offer on October 4, the day before the DEVCON, a UnConference as a special highlight. Here the participants build the agenda at the beginning in a plenary session. The UnConference offers a special environment for knowledge sharing and targeted exchange with peers.&lt;/p>\n\n&lt;p>Seats for DEVCON and Unconference are limited and we expect to be sold out during summer time. Don't miss to register soon at &lt;a href=\"http://www.liferay.com/devcon\" target=\"_blank\">www.liferay.com/devcon&lt;/a>&lt;/p>\n\n&lt;p>&amp;nbsp;&lt;/p></Summary></root>",
-		"summaryCurrentValue": "<p>Meet Liferay developers and IT professionals to the fifth Liferay DEVCON in Amsterdam! Talk with Liferay engineers from around the world and gain valuable insights for your Liferay projects. Get answers to your questions, learn about new features and use the opportunity to help shape the Liferay community and development in a unique way. You can look forward to a lot of time to exchange knowledge, networking and fun.<br />\n&nbsp;<br />\nThis year we offer on October 4, the day before the DEVCON, a UnConference as a special highlight. Here the participants build the agenda at the beginning in a plenary session. The UnConference offers a special environment for knowledge sharing and targeted exchange with peers.</p>\n\n<p>Seats for DEVCON and Unconference are limited and we expect to be sold out during summer time. Don't miss to register soon at <a href=\"http://www.liferay.com/devcon\" target=\"_blank\">www.liferay.com/devcon</a></p>\n\n<p>&nbsp;</p>",
+		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Summary language-id=\"en_US\">&lt;p>Meet Liferay developers and IT professionals to the fifth Liferay DEVCON in Amsterdam! Talk with Liferay engineers from around the world and gain valuable insights for your Liferay projects. Get answers to your questions, learn about new features and use the opportunity to help shape the Liferay community and development in a unique way. You can look forward to a lot of time to exchange knowledge, networking and fun.&lt;br />\n&amp;nbsp;&lt;br />\nThis year we offer on October 4, the day before the DEVCON, a UnConference as a special highlight. Here the participants build the agenda at the beginning in a plenary session. The UnConference offers a special environment for knowledge sharing and targeted exchange with peers.&lt;/p>\n\n&lt;p>Seats for DEVCON and Unconference are limited. Don't miss to register soon at &lt;a href=\"http://www.liferay.com/devcon\" target=\"_blank\">www.liferay.com/devcon&lt;/a>&lt;/p>\n\n&lt;p>&amp;nbsp;&lt;/p></Summary></root>",
+		"summaryCurrentValue": "<p>Meet Liferay developers and IT professionals to the fifth Liferay DEVCON in Amsterdam! Talk with Liferay engineers from around the world and gain valuable insights for your Liferay projects. Get answers to your questions, learn about new features and use the opportunity to help shape the Liferay community and development in a unique way. You can look forward to a lot of time to exchange knowledge, networking and fun.<br />\n&nbsp;<br />\nThis year we offer on October 4, the day before the DEVCON, a UnConference as a special highlight. Here the participants build the agenda at the beginning in a plenary session. The UnConference offers a special environment for knowledge sharing and targeted exchange with peers.</p>\n\n<p>Seats for DEVCON and Unconference are limited. Don't miss to register soon at <a href=\"http://www.liferay.com/devcon\" target=\"_blank\">www.liferay.com/devcon</a></p>\n\n<p>&nbsp;</p>",
 		"timeZoneId": "Europe/Paris",
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay Developer Conference 2017</Title></root>",
 		"titleCurrentValue": "Liferay Developer Conference 2017",
@@ -282,7 +233,7 @@
 			"countryId": 19,
 			"createDate": 1488913990000,
 			"mailing": false,
-			"modifiedDate": 1497999918000,
+			"modifiedDate": 1505239890000,
 			"primary": true,
 			"regionId": 19045,
 			"street1": "Hilton Austin",
@@ -310,17 +261,39 @@
 		"createDate": 1488913990000,
 		"dateTBA": false,
 		"endDate": 1508277600000,
-		"extraSettings": "",
-		"extraSettingsJSONObject": {},
+		"extraSettings": "displayInMobileApp=true\neventWifiSsid=Hilton Meeting\neventWifiPassword=LSNA2017",
+		"extraSettingsJSONObject": {
+			"eventWifiSsid": "Hilton Meeting",
+			"eventWifiPassword": "LSNA2017",
+			"displayInMobileApp": "true"
+		},
 		"globalRegion": 1,
 		"hostedBy": "Liferay, Inc.",
 		"hostedByURL": "https://www.liferay.com/",
 		"imageFileEntryId": 160625887,
 		"imageFileEntryURL": "/documents/10182/159107255/symposium-event.png/a48e065c-b053-4a62-aeb9-28e27df3a4ee?t=1469235796000",
-		"latitude": 0,
-		"longitude": 0,
+		"latitude": 30.26526,
+		"longitude": -97.738291,
 		"marketingEventId": 226942016,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Digital Business</Title></root>",
+					"vocabularyId": 231614338,
+					"name": "Digital Business",
+					"categoryId": 231615671,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Technical</Title></root>",
+					"vocabularyId": 231614338,
+					"name": "Technical",
+					"categoryId": 231615670,
+					"properties": {}
+				}
+			],
 			"MarketingEventSessionTypes": [
 				{
 					"vocabularyName": "Marketing Event Session Types",
@@ -368,6 +341,14 @@
 				},
 				{
 					"vocabularyName": "Marketing Event Session Types",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Lightning Session</Title></root>",
+					"vocabularyId": 231614336,
+					"name": "Lightning Session",
+					"categoryId": 231655116,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Types",
 					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Session</Title></root>",
 					"vocabularyId": 231614336,
 					"name": "Session",
@@ -375,6 +356,14 @@
 					"properties": {
 						"sessionType": "session"
 					}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Types",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Sponsored Session</Title></root>",
+					"vocabularyId": 231614336,
+					"name": "Sponsored Session",
+					"categoryId": 231628374,
+					"properties": {}
 				},
 				{
 					"vocabularyName": "Marketing Event Session Types",
@@ -394,6 +383,14 @@
 					"vocabularyId": 231614337,
 					"name": "APIs",
 					"categoryId": 231615668,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Topics",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Case Study</Title></root>",
+					"vocabularyId": 231614337,
+					"name": "Case Study",
+					"categoryId": 231638233,
 					"properties": {}
 				},
 				{
@@ -426,6 +423,14 @@
 					"vocabularyId": 231614337,
 					"name": "DevOps",
 					"categoryId": 231615661,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Topics",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Digital Business</Title></root>",
+					"vocabularyId": 231614337,
+					"name": "Digital Business",
+					"categoryId": 231638025,
 					"properties": {}
 				},
 				{
@@ -486,6 +491,14 @@
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">UX</Title></root>",
+					"vocabularyId": 231614337,
+					"name": "UX",
+					"categoryId": 231625188,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Topics",
 					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Upgrades</Title></root>",
 					"vocabularyId": 231614337,
 					"name": "Upgrades",
@@ -508,10 +521,9 @@
 					"categoryId": 231615664,
 					"properties": {}
 				}
-			],
-			"MarketingEventTracks": []
+			]
 		},
-		"modifiedDate": 1497999918000,
+		"modifiedDate": 1505239890000,
 		"online": false,
 		"registrationType": 1,
 		"registrationURL": "https://www.liferay.com/web/events-symposium-north-america/register",
@@ -530,29 +542,61 @@
 		"videoTitle": ""
 	},
 	{
-		"address": null,
-		"addressId": 0,
+		"address": {
+			"addressId": 231646696,
+			"city": "Madrid",
+			"classNameId": 122452621,
+			"classPK": 231482162,
+			"companyId": 10155,
+			"countryId": 15,
+			"createDate": 1504784540000,
+			"mailing": false,
+			"modifiedDate": 1504784540000,
+			"primary": true,
+			"regionId": 0,
+			"street1": "Calle Sepúlveda, 3 y 5",
+			"street2": "",
+			"street3": "",
+			"typeId": 0,
+			"userId": 125068936,
+			"userName": "Maria Sanchez",
+			"uuid": "1dc1283c-ae17-5dc1-1130-5df12f0db40e",
+			"zip": "28011"
+		},
+		"addressId": 231646696,
 		"companyId": 10155,
-		"country": null,
+		"country": {
+			"a2": "ES",
+			"a3": "ESP",
+			"active": true,
+			"countryId": 15,
+			"idd": "034",
+			"name": "spain",
+			"nameCurrentValue": "Spain",
+			"number": "724",
+			"zipRequired": true
+		},
 		"createDate": 1494331500000,
 		"dateTBA": false,
 		"endDate": 1509033600000,
-		"extraSettings": "",
-		"extraSettingsJSONObject": {},
-		"globalRegion": 0,
-		"hostedBy": "",
-		"hostedByURL": "",
-		"imageFileEntryId": 0,
-		"imageFileEntryURL": "",
+		"extraSettings": "displayInMobileApp=true",
+		"extraSettingsJSONObject": {
+			"displayInMobileApp": "true"
+		},
+		"globalRegion": 3,
+		"hostedBy": "Liferay Spain",
+		"hostedByURL": "http://www.liferay.com",
+		"imageFileEntryId": 160625887,
+		"imageFileEntryURL": "/documents/10182/159107255/symposium-event.png/a48e065c-b053-4a62-aeb9-28e27df3a4ee?t=1469235796000",
 		"latitude": 0,
 		"longitude": 0,
 		"marketingEventId": 231482162,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [],
 			"MarketingEventSessionTypes": [],
-			"MarketingEventSessionTopics": [],
-			"MarketingEventTracks": []
+			"MarketingEventSessionTopics": []
 		},
-		"modifiedDate": 1497353676000,
+		"modifiedDate": 1504784540000,
 		"online": false,
 		"registrationType": 1,
 		"registrationURL": "https://www.liferay.com/en/web/events-symposium-spain/home",
@@ -621,21 +665,47 @@
 		"longitude": 0,
 		"marketingEventId": 210433178,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Ancud IT</Title></root>",
+					"vocabularyId": 231614585,
+					"name": "Ancud IT",
+					"categoryId": 231614592,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Prodyna</Title></root>",
+					"vocabularyId": 231614585,
+					"name": "Prodyna",
+					"categoryId": 231614596,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Tracks",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">mimacom</Title></root>",
+					"vocabularyId": 231614585,
+					"name": "mimacom",
+					"categoryId": 231614593,
+					"properties": {}
+				}
+			],
 			"MarketingEventSessionTypes": [
+				{
+					"vocabularyName": "Marketing Event Session Types",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US,de_DE,\" default-locale=\"en_US\"><Title language-id=\"de_DE\">Pause</Title><Title language-id=\"en_US\">Break</Title></root>",
+					"vocabularyId": 204385476,
+					"name": "Break",
+					"categoryId": 231614586,
+					"properties": {}
+				},
 				{
 					"vocabularyName": "Marketing Event Session Types",
 					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Experts Exchange</Title></root>",
 					"vocabularyId": 204385476,
 					"name": "Experts Exchange",
 					"categoryId": 231614587,
-					"properties": {}
-				},
-				{
-					"vocabularyName": "Marketing Event Session Types",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Pause</Title></root>",
-					"vocabularyId": 204385476,
-					"name": "Pause",
-					"categoryId": 231614586,
 					"properties": {}
 				}
 			],
@@ -654,32 +724,6 @@
 					"vocabularyId": 231614584,
 					"name": "Intranet",
 					"categoryId": 231614595,
-					"properties": {}
-				}
-			],
-			"MarketingEventTracks": [
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Ancud IT</Title></root>",
-					"vocabularyId": 231614585,
-					"name": "Ancud IT",
-					"categoryId": 231614592,
-					"properties": {}
-				},
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Prodyna</Title></root>",
-					"vocabularyId": 231614585,
-					"name": "Prodyna",
-					"categoryId": 231614596,
-					"properties": {}
-				},
-				{
-					"vocabularyName": "Marketing Event Tracks",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">mimacom</Title></root>",
-					"vocabularyId": 231614585,
-					"name": "mimacom",
-					"categoryId": 231614593,
 					"properties": {}
 				}
 			]
@@ -712,7 +756,7 @@
 			"countryId": 18,
 			"createDate": 1496145191000,
 			"mailing": false,
-			"modifiedDate": 1499845055000,
+			"modifiedDate": 1505482528000,
 			"primary": true,
 			"regionId": 0,
 			"street1": "5 More London Place",
@@ -740,8 +784,10 @@
 		"createDate": 1496145191000,
 		"dateTBA": false,
 		"endDate": 1510160400000,
-		"extraSettings": "",
-		"extraSettingsJSONObject": {},
+		"extraSettings": "displayInMobileApp=true",
+		"extraSettingsJSONObject": {
+			"displayInMobileApp": "true"
+		},
 		"globalRegion": 0,
 		"hostedBy": "Liferay UK",
 		"hostedByURL": "",
@@ -751,23 +797,40 @@
 		"longitude": 0,
 		"marketingEventId": 231514973,
 		"marketingEventSessionAssetCategoriesJSONObject": {
-			"MarketingEventSessionTypes": [],
-			"MarketingEventSessionTopics": [],
-			"MarketingEventTracks": []
+			"MarketingEventSessionTracks": [],
+			"MarketingEventSessionTypes": [
+				{
+					"vocabularyName": "Marketing Event Session Types",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Break</Title></root>",
+					"vocabularyId": 231644035,
+					"name": "Break",
+					"categoryId": 231644037,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Types",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Experts Exchange</Title></root>",
+					"vocabularyId": 231644035,
+					"name": "Experts Exchange",
+					"categoryId": 231647974,
+					"properties": {}
+				}
+			],
+			"MarketingEventSessionTopics": []
 		},
-		"modifiedDate": 1499845055000,
+		"modifiedDate": 1505482528000,
 		"online": false,
 		"registrationType": 1,
-		"registrationURL": "https://www.eventbrite.com/e/liferay-digital-solutions-forum-2017-uk-registration-34353542370",
+		"registrationURL": "https://www.liferay.com/web/events-ldsf-uk?utm_source=lrdcom&utm_medium=display&utm_content=events_page&utm_campaign=7010g000001ccnZ",
 		"siteGroupId": 231467521,
 		"slidesFileEntryId": 0,
 		"startDate": 1510131600000,
-		"summary": "",
-		"summaryCurrentValue": "",
+		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US,\" default-locale=\"en_US\"><Summary language-id=\"en_US\">&lt;p style=\"color: rgb(80, 0, 80); font-family: arial, sans-serif; font-size: 12.8px; margin-bottom: 1em;\">&lt;font color=\"#000000\" face=\"arial, helvetica, sans-serif\" size=\"2\">&amp;nbsp;Liferay Digital Solutions Forum&amp;nbsp;is the best place&amp;nbsp;to network with the Liferay community. It's your annual event and the best place to hear Liferay customer's digital transformation stories first hand, and discuss your latest challenges with Liferay experts. T&lt;/font>&lt;span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: small; background-color: transparent;\">his year LDSF 2017 will be packed with new content including:&lt;/span>&lt;/p>\n\n&lt;div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">- Keynotes from OP Bank, HP Enterprise and Bryan Cheung, CEO, Liferay&amp;nbsp;&amp;nbsp;&lt;/div>\n\n&lt;div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">-&amp;nbsp;&lt;span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif;\">Updates on the Liferay roadmap &amp;nbsp;&lt;/span>&lt;/div>\n\n&lt;div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">- Public and private sector case studies&lt;/div>\n\n&lt;div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">&lt;span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif;\">- Technical workshops with Liferay experts&amp;nbsp;&lt;/span>&lt;/div>\n\n&lt;div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">&lt;font color=\"#000000\" face=\"arial, helvetica, sans-serif\">- Much, much, more!&lt;/font>&lt;/div></Summary></root>",
+		"summaryCurrentValue": "<p style=\"color: rgb(80, 0, 80); font-family: arial, sans-serif; font-size: 12.8px; margin-bottom: 1em;\"><font color=\"#000000\" face=\"arial, helvetica, sans-serif\" size=\"2\">&nbsp;Liferay Digital Solutions Forum&nbsp;is the best place&nbsp;to network with the Liferay community. It's your annual event and the best place to hear Liferay customer's digital transformation stories first hand, and discuss your latest challenges with Liferay experts. T</font><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: small; background-color: transparent;\">his year LDSF 2017 will be packed with new content including:</span></p>\n\n<div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">- Keynotes from OP Bank, HP Enterprise and Bryan Cheung, CEO, Liferay&nbsp;&nbsp;</div>\n\n<div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">-&nbsp;<span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif;\">Updates on the Liferay roadmap &nbsp;</span></div>\n\n<div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\">- Public and private sector case studies</div>\n\n<div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\"><span style=\"color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif;\">- Technical workshops with Liferay experts&nbsp;</span></div>\n\n<div style=\"color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 12.8px;\"><font color=\"#000000\" face=\"arial, helvetica, sans-serif\">- Much, much, more!</font></div>",
 		"timeZoneId": "UTC",
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay Digital Solutions Forum UK</Title></root>",
 		"titleCurrentValue": "Liferay Digital Solutions Forum UK",
-		"titleURL": "https://www.liferay.com/web/events-ldsf-uk",
+		"titleURL": "https://www.liferay.com/web/events-ldsf-uk?utm_source=lrdcom&utm_medium=display&utm_content=events_page&utm_campaign=7010g000001ccnZ",
 		"type": 1,
 		"userId": 10364359,
 		"userName": "Sylvia Assumpção",
@@ -822,9 +885,9 @@
 		"longitude": 0,
 		"marketingEventId": 231470644,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [],
 			"MarketingEventSessionTypes": [],
-			"MarketingEventSessionTopics": [],
-			"MarketingEventTracks": []
+			"MarketingEventSessionTopics": []
 		},
 		"modifiedDate": 1498052424000,
 		"online": false,
@@ -854,7 +917,7 @@
 			"countryId": 48,
 			"createDate": 1502405060000,
 			"mailing": false,
-			"modifiedDate": 1502721444000,
+			"modifiedDate": 1505337170000,
 			"primary": true,
 			"regionId": 0,
 			"street1": "Alameda Santos, 1437 - Cerqueira César",
@@ -893,19 +956,19 @@
 		"longitude": 0,
 		"marketingEventId": 231615284,
 		"marketingEventSessionAssetCategoriesJSONObject": {
+			"MarketingEventSessionTracks": [],
 			"MarketingEventSessionTypes": [],
-			"MarketingEventSessionTopics": [],
-			"MarketingEventTracks": []
+			"MarketingEventSessionTopics": []
 		},
-		"modifiedDate": 1502721444000,
+		"modifiedDate": 1505337170000,
 		"online": false,
 		"registrationType": 1,
 		"registrationURL": "https://www.eventbrite.com/e/liferay-symposium-brazil-2017-registration-36421686244",
 		"siteGroupId": 231582024,
 		"slidesFileEntryId": 0,
 		"startDate": 1511949600000,
-		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US,\" default-locale=\"en_US\"><Summary language-id=\"en_US\">No Liferay Symposium Brazil 2017, descubra as principais estratégias para aprimorar suas operações digitais e preparar-se para a verdadeira transformação ocorrer.</Summary></root>",
-		"summaryCurrentValue": "No Liferay Symposium Brazil 2017, descubra as principais estratégias para aprimorar suas operações digitais e preparar-se para a verdadeira transformação ocorrer.",
+		"summary": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US,\" default-locale=\"en_US\"><Summary language-id=\"en_US\">No &lt;a href=\"http://liferay.com/brazil2017\">Liferay Symposium Brazil 2017&lt;/a>, descubra as principais estratégias para aprimorar suas operações digitais e preparar-se para a verdadeira transformação ocorrer.</Summary></root>",
+		"summaryCurrentValue": "No <a href=\"http://liferay.com/brazil2017\">Liferay Symposium Brazil 2017</a>, descubra as principais estratégias para aprimorar suas operações digitais e preparar-se para a verdadeira transformação ocorrer.",
 		"timeZoneId": "America/Sao_Paulo",
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US,pt_BR,\" default-locale=\"en_US\"><Title language-id=\"en_US\">Liferay Symposium Brazil 2017</Title><Title language-id=\"pt_BR\">Liferay Symposium Brazil 2017</Title></root>",
 		"titleCurrentValue": "Liferay Symposium Brazil 2017",

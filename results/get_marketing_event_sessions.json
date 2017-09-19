@@ -30,8 +30,6 @@
 		"statusDate": 1489156833000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Accueil - Inscription&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Accueil - Inscription</b></span>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "f79d78a3-81a2-4f12-805a-0e4e848f0c51",
@@ -59,6 +57,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -95,8 +94,6 @@
 		"statusDate": 1490366803000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mot de Bienvenue&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "6a36f3ef-4cf2-4970-b90d-b215c0827081",
@@ -124,6 +121,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -160,8 +158,6 @@
 		"statusDate": 1494258698000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Getting Used to Liferay's API&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Getting Used to Liferay's API</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "266814cf-0f7b-4475-8709-472f7c62383c",
@@ -189,6 +185,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -225,8 +222,6 @@
 		"statusDate": 1494317772000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développer sous Liferay DXP, qu’est-ce que ça change pour vous ?&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Développer sous Liferay DXP, qu’est-ce que ça change pour vous ?</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "a8b6a70c-6271-473a-b2fe-a1242a325ce8",
@@ -263,8 +258,6 @@
 		"statusDate": 1490366862000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "ca5e9673-440b-4c25-8d35-d2be62f2d413",
@@ -292,6 +285,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -328,8 +322,6 @@
 		"statusDate": 1494317825000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>From Zero to Production in 1 Conference Talk Time&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>From Zero to Production in 1 Conference Talk Time</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "86686400-9404-4ac1-9df9-f705f083e228",
@@ -357,6 +349,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -393,8 +386,6 @@
 		"statusDate": 1494317841000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Liferay as a Microservices Platform&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Liferay as a Microservices Platform</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "cf0c29cc-9531-4086-90f8-d73fb6df632c",
@@ -431,8 +422,6 @@
 		"statusDate": 1489156987000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Déjeuner&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "e2335075-568b-4c19-a97c-2f20005d9693",
@@ -460,6 +449,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Ippon Technologies",
@@ -496,8 +486,6 @@
 		"statusDate": 1494317863000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développer les portlets sur Node.js à l'aide d'Ember.js&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Développer les portlets sur Node.js à l'aide d'Ember.js</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "8ffb33e3-6900-43b6-b33a-25253a9ec36c",
@@ -525,6 +513,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Consultant Technique",
@@ -561,8 +550,6 @@
 		"statusDate": 1494317881000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développement : Mettez le turbo !&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Développement : Mettez le turbo !</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "78e3ab09-7e65-4403-8356-5aae8adafe73",
@@ -599,8 +586,6 @@
 		"statusDate": 1489157066000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "92c94a13-a9c5-46fd-bd5a-a46ad59cb971",
@@ -628,6 +613,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -654,6 +640,7 @@
 				"uuid": "404c0ce5-43d8-43f5-90e0-67a85ced2df2"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -690,8 +677,6 @@
 		"statusDate": 1494317903000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mise en place d’une stratégie de tests automatisée avec Liferay &lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Mise en place d’une stratégie de tests automatisée avec Liferay </b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "446d8275-e08a-4ca5-b708-be67b080a982",
@@ -719,6 +704,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -755,8 +741,6 @@
 		"statusDate": 1494317918000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Omnichannel Experiences in Liferay - Living in a Mobile World&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Omnichannel Experiences in Liferay - Living in a Mobile World</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "8fdb22d8-be2f-4e1e-8f6e-1dc64bb11ded",
@@ -793,8 +777,6 @@
 		"statusDate": 1489155936000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Session de Clôture&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Session de Clôture</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "5d16fe85-3d69-46a5-aebb-270ea002baf1",
@@ -831,8 +813,6 @@
 		"statusDate": 1489160900000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Community Meetup&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Community Meetup</b></span>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "109e726d-9bb0-4e3d-8650-7eac89c9123b",
@@ -869,8 +849,6 @@
 		"statusDate": 1489157856000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Accueil - Inscription&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Accueil - Inscription</b></span>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "4d9a283b-bd9b-45a4-a0bf-75ab20c84af9",
@@ -898,6 +876,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -934,8 +913,6 @@
 		"statusDate": 1491919820000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mot de Bienvenue&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "44384be8-25d9-4e21-9ae6-3fa282349d49",
@@ -963,6 +940,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -999,8 +977,6 @@
 		"statusDate": 1494532649000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>3 minutes pour convaincre : Orange Applications for Business&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>3 minutes pour convaincre : Orange Applications for Business</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "8a1564fb-08c2-4a81-9118-6d83ba46d77b",
@@ -1037,8 +1013,6 @@
 		"statusDate": 1492090569000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>3 minutes pour convaincre : GFI Informatique&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>3 minutes pour convaincre : GFI Informatique</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "b4ad5e57-9ec3-463b-876f-f7ec579a651e",
@@ -1066,6 +1040,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -1102,8 +1077,6 @@
 		"statusDate": 1493884644000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Keynote : Quoi de neuf chez Liferay ?&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Keynote : Quoi de neuf chez Liferay ?</b>",
-		"type": 2,
-		"typeName": "keynote",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "272f201e-5ffd-4b15-b800-16482f751a57",
@@ -1131,6 +1104,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Scanderia",
@@ -1167,8 +1141,6 @@
 		"statusDate": 1494490557000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>L’entreprise &amp; la Renaissance Numérique&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>L’entreprise & la Renaissance Numérique</b>",
-		"type": 2,
-		"typeName": "keynote",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "b8ea9bae-75b8-489e-916f-5dbcdebaa8d4",
@@ -1205,8 +1177,6 @@
 		"statusDate": 1492085951000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "70720e89-94b6-4458-afc5-c7a29a079469",
@@ -1234,6 +1204,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -1260,6 +1231,7 @@
 				"uuid": "50d639b8-d5d3-4f3a-a36c-b1f83759d569"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -1296,8 +1268,6 @@
 		"statusDate": 1494318062000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage AIRBUS - Replacer l’utilisateur au centre de l’activité&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Témoignage AIRBUS - Replacer l’utilisateur au centre de l’activité</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "b1ad109b-5ae8-4f8f-8543-4128f8f5973d",
@@ -1325,6 +1295,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Danone",
@@ -1361,8 +1332,6 @@
 		"statusDate": 1492086003000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage DANONE - Intranet Factory&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Témoignage DANONE - Intranet Factory</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "06455e30-a440-4f6d-ac7a-749b88b0c179",
@@ -1399,8 +1368,6 @@
 		"statusDate": 1489157942000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Déjeuner&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "30467a5e-29c7-40c9-ae40-73de166bff67",
@@ -1428,6 +1395,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -1454,6 +1422,7 @@
 				"uuid": "fa4bffef-8e9a-4bdf-81b8-067dc66fa6ab"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -1490,8 +1459,6 @@
 		"statusDate": 1489168766000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage TOTAL -  Une usine à portails métier&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Témoignage TOTAL -  Une usine à portails métier</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "d2e93774-3d21-4178-8fd1-bfe9590e4c5d",
@@ -1519,6 +1486,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -1545,6 +1513,7 @@
 				"uuid": "f86f93c8-a12a-43c3-afa4-36d9ce236e29"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -1581,8 +1550,6 @@
 		"statusDate": 1494531577000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage MSHEIREB -  Un service de eConciergerie pour les usagers&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Témoignage MSHEIREB -  Un service de eConciergerie pour les usagers</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "93a5e344-571d-481e-ac7e-814764452f73",
@@ -1619,8 +1586,6 @@
 		"statusDate": 1492090717000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "9fafa8f9-67e0-4fb8-b41c-929eab1d321f",
@@ -1648,6 +1613,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -1674,6 +1640,7 @@
 				"uuid": "413f8a33-54f3-4222-977f-5faf447e3383"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -1710,8 +1677,6 @@
 		"statusDate": 1494318024000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage CNAF - L’Offre Partenaire CNAF, un portail multi-canal &lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Témoignage CNAF - L’Offre Partenaire CNAF, un portail multi-canal </b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "bdcb3e49-1317-497b-9970-09feab32d9b1",
@@ -1739,6 +1704,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -1775,8 +1741,6 @@
 		"statusDate": 1492090786000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Roadmap Liferay&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Roadmap Liferay</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "3e275f3e-63e2-43cb-8fc6-7ef110d16ac8",
@@ -1804,6 +1768,7 @@
 		"marketingEventSessionRoomId": 214989963,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -1840,8 +1805,6 @@
 		"statusDate": 1492090821000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Session de Clôture&lt;/b></Title></root>",
 		"titleCurrentValue": "<b>Session de Clôture</b>",
-		"type": 0,
-		"typeName": "",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "0ee0c1ec-7ef6-4b04-b60f-be6482c638d2",
@@ -1878,8 +1841,6 @@
 		"statusDate": 1492090836000,
 		"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Cocktail de Networking&lt;/b>&lt;/span></Title></root>",
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Cocktail de Networking</b></span>",
-		"type": 1,
-		"typeName": "break",
 		"userId": 8134459,
 		"userName": "Rachel Horvelin",
 		"uuid": "b98e3f0a-499c-4c01-b922-bebdfbc4ccd1",

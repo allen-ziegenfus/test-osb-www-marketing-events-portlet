@@ -15,7 +15,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493190000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -29,8 +28,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Accueil - Inscription</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214993439,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493188200000,
 			"keywords": "",
@@ -40,7 +39,6 @@
 			"marketingEventSessionRoomId": 214990277,
 			"endDate": 1493190000000,
 			"statusDate": 1489156833000,
-			"type": 0,
 			"modifiedDate": 1489156833000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Accueil - Inscription&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -89,7 +87,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489156833000,
 		"incomplete": false,
@@ -124,8 +122,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489156833000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -134,6 +130,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -174,12 +171,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493191200000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -215,8 +212,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214993961,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493190000000,
 			"keywords": "",
@@ -226,7 +223,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493191200000,
 			"statusDate": 1490366803000,
-			"type": 0,
 			"modifiedDate": 1490366803000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mot de Bienvenue&lt;/b></Title></root>",
 			"description": "",
@@ -275,7 +271,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1490366803000,
 		"incomplete": false,
@@ -310,8 +306,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1490366803000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -320,6 +314,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -360,12 +355,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/2017-FRS-OlafKock-GettingUsedToTheAPI.pdf/5ff3c9ac-060a-49bb-aadd-3aa0894a06ab",
 		"endDate": 1493193600000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -401,8 +396,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Getting Used to Liferay's API</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214994371,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493191200000,
 			"keywords": "",
@@ -412,7 +407,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493193600000,
 			"statusDate": 1494258698000,
-			"type": 0,
 			"modifiedDate": 1494258698000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Getting Used to Liferay's API&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Liferay has a powerful API, but the size of it can be overwhealming. Follow Olaf on a tour into the API - see what's necessary to remote-control Liferay and use the features you can easily unlock with a little bit of code</Description></root>",
@@ -490,7 +484,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494258698000,
 		"incomplete": false,
@@ -525,8 +519,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494258698000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -535,6 +527,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -575,12 +568,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/2017+FRS+Huage+CHEN.pdf/532012ca-09bf-4cca-a76e-96c7042ac616",
 		"endDate": 1493196000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -616,8 +609,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Développer sous Liferay DXP, qu’est-ce que ça change pour vous ?</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214996078,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493193600000,
 			"keywords": "",
@@ -627,7 +620,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493196000000,
 			"statusDate": 1494317772000,
-			"type": 0,
 			"modifiedDate": 1494317772000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développer sous Liferay DXP, qu’est-ce que ça change pour vous ?&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Cette session a pour but de présenter les points essentiels des changements apportés dans Liferay. Les nouveaux concepts et les bonnes pratiques seront illustrés, notamment le développement, le déploiement, la customisation et la migration. \n\nCeci permettra de faciliter la prise en main de Liferay DXP pour les développeurs déjà familiers avec les versions précédentes de Liferay.</Description></root>",
@@ -705,7 +697,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317772000,
 		"incomplete": false,
@@ -740,8 +732,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317772000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -763,7 +753,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493197800000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -777,8 +766,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214997145,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493196000000,
 			"keywords": "",
@@ -788,7 +777,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493197800000,
 			"statusDate": 1490366862000,
-			"type": 1,
 			"modifiedDate": 1490366862000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -837,7 +825,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1490366862000,
 		"incomplete": false,
@@ -872,8 +860,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1490366862000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -882,6 +868,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -922,12 +909,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/from_0_to_prod_in_1_talk_time+Milen.pdf/a2bac11b-7b44-4f80-bf2d-139bf3af22cb",
 		"endDate": 1493200200000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -963,8 +950,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>From Zero to Production in 1 Conference Talk Time</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214998626,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493197800000,
 			"keywords": "",
@@ -974,7 +961,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493200200000,
 			"statusDate": 1494317825000,
-			"type": 0,
 			"modifiedDate": 1494317825000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>From Zero to Production in 1 Conference Talk Time&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">NoSQL, Serverless, DevOps, Social Auth, ... Developers these days want to forget about infrastructure and simply build great scalable apps quickly. This just got easier and I'll prove it to you by live coding an application that you can interact with during the talk (bring your laptop and/or smartphone).\n\nWhile having fun playing with what I code, you'll learn how to easily build any web application - from simple SPAs trough a full micro-service architecture to complex enterprise applications.</Description></root>",
@@ -1052,7 +1038,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317825000,
 		"incomplete": false,
@@ -1087,8 +1073,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317825000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -1097,6 +1081,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -1137,12 +1122,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/microservices-danielreuther-frs2017.pdf/2e74008c-1d33-4054-9bf8-374dc6c2fabc",
 		"endDate": 1493202600000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -1178,8 +1163,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Liferay as a Microservices Platform</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214998839,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493200200000,
 			"keywords": "",
@@ -1189,7 +1174,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493202600000,
 			"statusDate": 1494317841000,
-			"type": 0,
 			"modifiedDate": 1494317841000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Liferay as a Microservices Platform&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Modularity promises to reduce efforts spent on customizing and extending existing systems. Often, the trend of REST-based microservices, however, only shifts complexity from development to operations. This presentation is supposed to offer insight into Liferay's view of in-process microservices and how they can help minimize run time complexity.</Description></root>",
@@ -1267,7 +1251,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317841000,
 		"incomplete": false,
@@ -1302,8 +1286,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317841000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -1325,7 +1307,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493208000000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -1339,8 +1320,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214998979,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493202600000,
 			"keywords": "",
@@ -1350,7 +1331,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493208000000,
 			"statusDate": 1489156987000,
-			"type": 1,
 			"modifiedDate": 1489156987000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Déjeuner&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -1399,7 +1379,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489156987000,
 		"incomplete": false,
@@ -1434,8 +1414,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489156987000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -1444,6 +1422,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Ippon Technologies",
@@ -1484,12 +1463,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/Portlets+Ember+Bertrand+Pinel.pdf/bcd8204f-8668-4338-89fc-727ab0716604",
 		"endDate": 1493210400000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Ippon Technologies",
@@ -1525,8 +1504,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Développer les portlets sur Node.js à l'aide d'Ember.js</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214999179,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493208000000,
 			"keywords": "",
@@ -1536,7 +1515,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493210400000,
 			"statusDate": 1494317863000,
-			"type": 0,
 			"modifiedDate": 1494317863000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développer les portlets sur Node.js à l'aide d'Ember.js&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Le javascript, autrefois tant décrié par les développeurs, est devenu avec les frameworks modernes le paradis du codeur ! Y a t-il un moyen d'en tirer partie pour simplifier le développement des portlets ? Ce court talk se focalisera sur Ember.js et sur l'environnement Ember CLI pour monter comment tirer la quintessence des possibilités de cet outil en couplage avec le déploiement portlet et la création de services vie le Service Builder de Liferay.</Description></root>",
@@ -1614,7 +1592,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317863000,
 		"incomplete": false,
@@ -1649,8 +1627,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317863000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -1659,6 +1635,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Consultant Technique",
@@ -1699,12 +1676,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/LRFRS2017+-+De%CC%81veloppement%2C+mettez+le+turbo+%21+-+Sebastien+Le+Marchand.pdf/e2b86238-fddc-4b37-ab8a-88509f50d359",
 		"endDate": 1493212800000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Consultant Technique",
@@ -1740,8 +1717,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Développement : Mettez le turbo !</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214999610,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493210400000,
 			"keywords": "",
@@ -1751,7 +1728,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493212800000,
 			"statusDate": 1494317881000,
-			"type": 0,
 			"modifiedDate": 1494317881000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Développement : Mettez le turbo !&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Pendant les phases de développement, les temps d’attente et les tâches répétitives ont trop souvent tendance à s’inviter de manière récurrente. Cette session sera l’occasion de découvrir ou redécouvrir des pratiques et des outils pour ne plus perdre de temps et renouer avec la productivité, dans le contexte d’un projet Liferay.</Description></root>",
@@ -1829,7 +1805,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317881000,
 		"incomplete": false,
@@ -1864,8 +1840,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317881000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -1887,7 +1861,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493214600000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -1901,8 +1874,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214999923,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493212800000,
 			"keywords": "",
@@ -1912,7 +1885,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493214600000,
 			"statusDate": 1489157066000,
-			"type": 1,
 			"modifiedDate": 1489157066000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/span></Title></root>",
 			"description": "",
@@ -1961,7 +1933,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489157066000,
 		"incomplete": false,
@@ -1996,8 +1968,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489157066000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2006,6 +1976,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -2032,6 +2003,7 @@
 				"uuid": "404c0ce5-43d8-43f5-90e0-67a85ced2df2"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -2072,12 +2044,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/OBS+-+Symposium+LR+2017+-+Strat%C3%A9gie+de+tests+automatis%C3%A9e.pdf/fe9bfdc6-0795-4265-bfae-86cb6d5d90f4",
 		"endDate": 1493217000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -2104,6 +2076,7 @@
 				"uuid": "404c0ce5-43d8-43f5-90e0-67a85ced2df2"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -2139,8 +2112,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Mise en place d’une stratégie de tests automatisée avec Liferay </b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 214999991,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493214600000,
 			"keywords": "",
@@ -2150,7 +2123,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493217000000,
 			"statusDate": 1494317903000,
-			"type": 0,
 			"modifiedDate": 1494317903000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mise en place d’une stratégie de tests automatisée avec Liferay &lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">La qualité et la maintenabilité des applications produites passent par des phases de tests et de recette, tâches qui sont souvent coûteuses et chronophages et dans lesquelles certains cas d'utilisation sont difficiles à tester.\n &lt;/br>\nPour identifier très rapidement des bugs applicatifs dans le but de garantir un niveau de qualité optimale dans nos livrables, nous avons mis en place une stratégie de tests sur l'un de nos projets : tests unitaires, tests d'intégration et test fonctionnels automatisés.\n &lt;/b>\nNotre présentation vous détaillera les différents moyens et outils mis en place pour tester notre portail Liferay.</Description></root>",
@@ -2228,7 +2200,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317903000,
 		"incomplete": false,
@@ -2263,8 +2235,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317903000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2273,6 +2243,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -2313,12 +2284,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/Omnichannel+experiences+in+Liferay+Javier+Gamarra.pdf/ed5fb920-33ba-414e-8a75-6f755111f562",
 		"endDate": 1493219400000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -2354,8 +2325,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Omnichannel Experiences in Liferay - Living in a Mobile World</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215000173,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493217000000,
 			"keywords": "",
@@ -2365,7 +2336,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493219400000,
 			"statusDate": 1494317918000,
-			"type": 0,
 			"modifiedDate": 1494317918000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Omnichannel Experiences in Liferay - Living in a Mobile World&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">We are all aware that customers demand an omnichannel world where they can interact with their site whenever and wherever they want. But what type of experiences are they demanding? Most importantly, how can we implement them with liferay? In this talk, we'll see real examples and implementations of what it means to be truly omnichannel in liferay, what it means to bring together our Liferay DXP instance and mobile experience</Description></root>",
@@ -2443,7 +2413,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494317918000,
 		"incomplete": false,
@@ -2478,8 +2448,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494317918000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2501,7 +2469,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493220600000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -2515,8 +2482,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Session de Clôture</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215000454,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493219400000,
 			"keywords": "",
@@ -2526,7 +2493,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493220600000,
 			"statusDate": 1489155936000,
-			"type": 0,
 			"modifiedDate": 1489155936000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Session de Clôture&lt;/b></Title></root>",
 			"description": "",
@@ -2575,7 +2541,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489155936000,
 		"incomplete": false,
@@ -2610,8 +2576,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489155936000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2633,7 +2597,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493233200000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -2647,8 +2610,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Community Meetup</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 227932219,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493222400000,
 			"keywords": "",
@@ -2658,7 +2621,6 @@
 			"marketingEventSessionRoomId": 227932655,
 			"endDate": 1493233200000,
 			"statusDate": 1489160900000,
-			"type": 0,
 			"modifiedDate": 1489160900000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Community Meetup&lt;/b>&lt;/span></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Retrouvez les membres de la communauté Liferay autour d'un verre au\nPub Honest Lawyer (176 rue de la Pompe 75116 Paris) le 26 avril de 18h à 21h.&lt;/br>\n&lt;/br>\nBoissons, tapas et goodies offerts !&lt;/br>\n&lt;/br>\nINSCRIVEZ-VOUS DÈS MAINTENANT !&lt;/br>\n&lt;/br>\n*Nombre de places limité !&lt;/br>\n&lt;/br>\nhttps://www.liferay.com/web/events-symposium-france/register</Description></root>",
@@ -2707,7 +2669,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489160900000,
 		"incomplete": false,
@@ -2742,8 +2704,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489160900000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2765,7 +2725,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493276400000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -2779,8 +2738,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Accueil - Inscription</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215003131,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493273700000,
 			"keywords": "",
@@ -2790,7 +2749,6 @@
 			"marketingEventSessionRoomId": 214990277,
 			"endDate": 1493276400000,
 			"statusDate": 1489157856000,
-			"type": 0,
 			"modifiedDate": 1489157856000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Accueil - Inscription&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -2839,7 +2797,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489157856000,
 		"incomplete": false,
@@ -2874,8 +2832,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489157856000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -2884,6 +2840,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -2924,12 +2881,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493277000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -2965,8 +2922,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Mot de Bienvenue</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215003334,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493276400000,
 			"keywords": "",
@@ -2976,7 +2933,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493277000000,
 			"statusDate": 1491919820000,
-			"type": 0,
 			"modifiedDate": 1491919820000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Mot de Bienvenue&lt;/b></Title></root>",
 			"description": "",
@@ -3025,7 +2981,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1491919820000,
 		"incomplete": false,
@@ -3060,8 +3016,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1491919820000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3070,6 +3024,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -3110,12 +3065,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493277300000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -3151,8 +3106,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>3 minutes pour convaincre : Orange Applications for Business</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 222800311,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493277000000,
 			"keywords": "",
@@ -3162,7 +3117,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493277300000,
 			"statusDate": 1494532649000,
-			"type": 0,
 			"modifiedDate": 1494532649000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>3 minutes pour convaincre : Orange Applications for Business&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Avec le développement des usages sur le web, le mobile, les réseaux sociaux, la montée en puissance des objets communicants et l’explosion du volume de données, votre entreprise doit s’adapter pour rester compétitive.&lt;/br>\n&lt;/br>\nAvec Orange Applications for Business, vous alliez la puissance d’un opérateur et l’expertise d’une entreprise de services numériques spécialisée pour faire du digital un des leviers de votre performance métier.&lt;/br>\n&lt;/br>\nPlus d'informations sur http://www.orange-business.com/fr/applications-for-business</Description></root>",
@@ -3211,7 +3165,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494532649000,
 		"incomplete": false,
@@ -3246,8 +3200,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494532649000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3269,7 +3221,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493277600000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -3283,8 +3234,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>3 minutes pour convaincre : GFI Informatique</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 222800502,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493277300000,
 			"keywords": "",
@@ -3294,7 +3245,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493277600000,
 			"statusDate": 1492090569000,
-			"type": 0,
 			"modifiedDate": 1492090569000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>3 minutes pour convaincre : GFI Informatique&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Acteur européen de référence des services informatiques à valeur ajoutée et des logiciels, Gfi Informatique occupe un positionnement stratégique différenciant entre les opérateurs de taille mondiale et les acteurs de niche.&lt;/br> \n&lt;/br>\nAvec son profil de multi-spécialiste, le Groupe met au service de ses clients une combinaison unique de proximité, d’organisation sectorielle et de solutions de qualité industrielle. Le Groupe qui compte près de 14 000 collaborateurs a réalisé en 2016 un chiffre d’affaires de 1 015 M€.&lt;/br>\n&lt;/br>\n&lt;/br>\nPlus d’informations sur www.gfi.world</Description></root>",
@@ -3343,7 +3293,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492090569000,
 		"incomplete": false,
@@ -3378,8 +3328,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492090569000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3388,6 +3336,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -3428,12 +3377,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/2017+FS+Opening+Bryan+Cheung.pdf/0f7199b7-85b3-47f4-8c12-5ad799df3ddd",
 		"endDate": 1493279700000,
-		"type": 2,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -3469,8 +3418,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Keynote : Quoi de neuf chez Liferay ?</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215003708,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493277600000,
 			"keywords": "",
@@ -3480,7 +3429,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493279700000,
 			"statusDate": 1493884644000,
-			"type": 2,
 			"modifiedDate": 1493884644000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Keynote : Quoi de neuf chez Liferay ?&lt;/b></Title></root>",
 			"description": "",
@@ -3558,7 +3506,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1493884644000,
 		"incomplete": false,
@@ -3593,8 +3541,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1493884644000,
-		"originalType": 2,
-		"typeName": "keynote",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3603,6 +3549,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Scanderia",
@@ -3643,12 +3590,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/SvS_Liferay.pdf/c0bc9878-445c-4313-b99d-9ad5257e5355",
 		"endDate": 1493282400000,
-		"type": 2,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Scanderia",
@@ -3684,8 +3631,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>L’entreprise & la Renaissance Numérique</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215003937,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493280300000,
 			"keywords": "",
@@ -3695,7 +3642,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493282400000,
 			"statusDate": 1494490557000,
-			"type": 2,
 			"modifiedDate": 1494490557000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>L’entreprise &amp; la Renaissance Numérique&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Nous vivons actuellement une époque de Renaissance. La science et la technologie font des progrès immenses, qui mettent l'ordre ancien bien souvent en porte à faux. Avec le numérique, les clients sont en réseaux et créent une forme d'intelligence collective. Les frontières de l'entreprise étant poreuses, les collaborateurs aussi se mettent en réseau. Les modèles traditionnels hiérarchiques, basés sur la méfiance, sont bousculés par cette révolution. L'information en réseau a pris la main. L'innovation est aujourd'hui ouverte, en codesign, et partagée. L'entreprise doit viser l'homéostasie.&lt;/br>\n&lt;/br> \nQue ce soient les salariés face à leurs managers, les clients face aux marques, les citoyens face aux politiques, nous trouvons le même triptyque : fun, engagement, collaboration. \nLa relation à l'ordre ancien est bouleversée. Les citoyens ne sont plus des assujettis captifs et sont en train de créer la démocratie participative. De même dans l'entreprise, les salariés ne veulent plus « un contrat de subordination », mais veulent participer activement à la vie de l'entreprise.&lt;/br>\n&lt;/br> \nAu-delà du « pourquoi » seront abordés le « quoi », et le « comment » passer l'entreprise à un mode réseau, pleine de sens.</Description></root>",
@@ -3773,7 +3719,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494490557000,
 		"incomplete": false,
@@ -3808,8 +3754,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494490557000,
-		"originalType": 2,
-		"typeName": "keynote",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3831,7 +3775,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493284200000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -3845,8 +3788,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215004300,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493282400000,
 			"keywords": "",
@@ -3856,7 +3799,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493284200000,
 			"statusDate": 1492085951000,
-			"type": 1,
 			"modifiedDate": 1492085951000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -3905,7 +3847,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492085951000,
 		"incomplete": false,
@@ -3940,8 +3882,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492085951000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -3950,6 +3890,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -3976,6 +3917,7 @@
 				"uuid": "50d639b8-d5d3-4f3a-a36c-b1f83759d569"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -4016,12 +3958,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/Liferay_Symposium_Airbus_NFANJEAU_27042017.pdf/ecc759f0-57a0-431a-8259-43fd8520dba8",
 		"endDate": 1493286300000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -4048,6 +3990,7 @@
 				"uuid": "50d639b8-d5d3-4f3a-a36c-b1f83759d569"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "AIRBUS Operations S.A.S",
@@ -4083,8 +4026,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Témoignage AIRBUS - Replacer l’utilisateur au centre de l’activité</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215004722,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493284200000,
 			"keywords": "",
@@ -4094,7 +4037,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493286300000,
 			"statusDate": 1494318062000,
-			"type": 0,
 			"modifiedDate": 1494318062000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage AIRBUS - Replacer l’utilisateur au centre de l’activité&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Leader mondial de l’aéronautique, de l’espace et des services associés, Airbus a choisi Liferay pour déployer un portail “IT Services” en self-service afin de simplifier la gestion des incidents et le partage des connaissances à travers un point d’accès unique.&lt;/br> \n&lt;/br>\n100 000 utilisateurs sont aujourd’hui fédérés autour de ce portail qui se transforme en un véritable outil de travail.</Description></root>",
@@ -4172,7 +4114,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494318062000,
 		"incomplete": false,
@@ -4207,8 +4149,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494318062000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -4217,6 +4157,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Danone",
@@ -4257,12 +4198,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493289000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Danone",
@@ -4298,8 +4239,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Témoignage DANONE - Intranet Factory</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215004832,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493286900000,
 			"keywords": "",
@@ -4309,7 +4250,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493289000000,
 			"statusDate": 1492086003000,
-			"type": 0,
 			"modifiedDate": 1492086003000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage DANONE - Intranet Factory&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Intranets are not dead! But they must adapt to the modern times. The world has become more mobile, sometimes more local, while the need for secured and performant platforms is always stronger.</Description></root>",
@@ -4358,7 +4298,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492086003000,
 		"incomplete": false,
@@ -4393,8 +4333,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492086003000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -4416,7 +4354,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493294400000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -4430,8 +4367,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Déjeuner</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215005440,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493288700000,
 			"keywords": "",
@@ -4441,7 +4378,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493294400000,
 			"statusDate": 1489157942000,
-			"type": 1,
 			"modifiedDate": 1489157942000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Déjeuner&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -4490,7 +4426,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489157942000,
 		"incomplete": false,
@@ -4525,8 +4461,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489157942000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -4535,6 +4469,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -4561,6 +4496,7 @@
 				"uuid": "fa4bffef-8e9a-4bdf-81b8-067dc66fa6ab"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -4601,12 +4537,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493296500000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -4633,6 +4569,7 @@
 				"uuid": "fa4bffef-8e9a-4bdf-81b8-067dc66fa6ab"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Total Marketing & Services",
@@ -4668,8 +4605,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Témoignage TOTAL -  Une usine à portails métier</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215005040,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493294400000,
 			"keywords": "",
@@ -4679,7 +4616,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493296500000,
 			"statusDate": 1489168766000,
-			"type": 0,
 			"modifiedDate": 1489168766000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage TOTAL -  Une usine à portails métier&lt;/b></Title></root>",
 			"description": "",
@@ -4728,7 +4664,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1489168766000,
 		"incomplete": false,
@@ -4763,8 +4699,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1489168766000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -4773,6 +4707,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -4799,6 +4734,7 @@
 				"uuid": "f86f93c8-a12a-43c3-afa4-36d9ce236e29"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -4839,12 +4775,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/2017+FRS+Msheireb.pdf/0ada9688-61c5-4368-9b87-db5c6834c5de",
 		"endDate": 1493299200000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -4871,6 +4807,7 @@
 				"uuid": "f86f93c8-a12a-43c3-afa4-36d9ce236e29"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Orange Applications for Business",
@@ -4906,8 +4843,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Témoignage MSHEIREB -  Un service de eConciergerie pour les usagers</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215005621,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493297100000,
 			"keywords": "",
@@ -4917,7 +4854,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493299200000,
 			"statusDate": 1494531577000,
-			"type": 0,
 			"modifiedDate": 1494531577000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage MSHEIREB -  Un service de eConciergerie pour les usagers&lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Orange orchestre le plus important projet de ville intelligente des pays du Golfe à Doha. Il intervient sur la fourniture de la majorité des applications et services intelligents du quartier historique « Msheireb Downtown Doha », projet phare de ville intelligente ou « Smart City» du Qatar et de sa région.&lt;/br>\n&lt;/br>\nDérivé du \"Smart Building\" Orange a ainsi développé pour Msheireb un système clé en main de conciergerie connectée qui propose aux habitants des services à la carte évoluant selon leurs besoins : prestataires extérieurs, livraison et stockage des courses, garde d'enfants, etc.</Description></root>",
@@ -4995,7 +4931,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494531577000,
 		"incomplete": false,
@@ -5030,8 +4966,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494531577000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -5053,7 +4987,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493301000000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -5067,8 +5000,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Pause café</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215005912,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493299200000,
 			"keywords": "",
@@ -5078,7 +5011,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493301000000,
 			"statusDate": 1492090717000,
-			"type": 1,
 			"modifiedDate": 1492090717000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Pause café&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -5127,7 +5059,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492090717000,
 		"incomplete": false,
@@ -5162,8 +5094,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492090717000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -5172,6 +5102,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -5198,6 +5129,7 @@
 				"uuid": "413f8a33-54f3-4222-977f-5faf447e3383"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -5238,12 +5170,12 @@
 		},
 		"slidesFileEntryURL": "/documents/201023220/206392680/2017+REX+Cnaf+V1.0-1.pdf/4093440f-4196-4bad-97a2-fbf44924e3b9",
 		"endDate": 1493303100000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -5270,6 +5202,7 @@
 				"uuid": "413f8a33-54f3-4222-977f-5faf447e3383"
 			},
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "CNAF",
@@ -5305,8 +5238,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Témoignage CNAF - L’Offre Partenaire CNAF, un portail multi-canal </b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215005701,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493301000000,
 			"keywords": "",
@@ -5316,7 +5249,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493303100000,
 			"statusDate": 1494318024000,
-			"type": 0,
 			"modifiedDate": 1494318024000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Témoignage CNAF - L’Offre Partenaire CNAF, un portail multi-canal &lt;/b></Title></root>",
 			"description": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Description language-id=\"en_US\">Suite au constat sur l ’ « offre partenaires » de l’hétérogénéité des technologies et infrastructures utilisées, d’interfaces disparates, de l’absence de dimension collaborative, la CNAF a choisi LIFERAY pour la mise en place d’une offre de portail partenaire multi canal bénéficiant en outre de la capacité « Fabrique à portails » pour les extranets partenaire existants. \n&lt;br>\nLes enjeux pour la CNAF sont : \n&lt;br>\n•\tla transformation métier du portail « mon compte partenaire » (notion d’espace partenaire, charte graphique et ergonomique commune à tous les services, parcours du partenaire sur le portail, services transverses pour les habilitations, traces, métriques…). \n&lt;br>\n•\tLa transformation technique du portail « mon compte partenaire » (pour chaque service, la réalisation technique a fait l’objet d’une transformation par rapport au service précédent).\n&lt;br>\n•\tTransformation de la gouvernance (introduction de concepts AGILE dans la réalisation, i.e. print , backlog, poker planning, rétrospective, démo, scrum board…).</Description></root>",
@@ -5364,7 +5296,7 @@
 			"mimeType": "application/pdf",
 			"modifiedDate": 1493819108000,
 			"name": "23836",
-			"readCount": 12,
+			"readCount": 15,
 			"repositoryId": 201023220,
 			"size": 962493,
 			"smallImageId": 0,
@@ -5394,7 +5326,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1494318024000,
 		"incomplete": false,
@@ -5429,8 +5361,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1494318024000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -5439,6 +5369,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -5479,12 +5410,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493305800000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -5520,8 +5451,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Roadmap Liferay</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215006846,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493303700000,
 			"keywords": "",
@@ -5531,7 +5462,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493305800000,
 			"statusDate": 1492090786000,
-			"type": 0,
 			"modifiedDate": 1492090786000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Roadmap Liferay&lt;/b></Title></root>",
 			"description": "",
@@ -5580,7 +5510,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492090786000,
 		"incomplete": false,
@@ -5615,8 +5545,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492090786000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -5625,6 +5553,7 @@
 	{
 		"users": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -5665,12 +5594,12 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493307000000,
-		"type": 0,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
 		"marketingEventUsers": [
 			{
+				"assetCategoriesJSONArray": [],
 				"companyLogoFileEntryId": 0,
 				"companyLogoFileEntryURL": "",
 				"companyName": "Liferay",
@@ -5706,8 +5635,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<b>Session de Clôture</b>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215008105,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493305800000,
 			"keywords": "",
@@ -5717,7 +5646,6 @@
 			"marketingEventSessionRoomId": 214989963,
 			"endDate": 1493307000000,
 			"statusDate": 1492090821000,
-			"type": 0,
 			"modifiedDate": 1492090821000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;b>Session de Clôture&lt;/b></Title></root>",
 			"description": "",
@@ -5766,7 +5694,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492090821000,
 		"incomplete": false,
@@ -5801,8 +5729,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492090821000,
-		"originalType": 0,
-		"typeName": "",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",
@@ -5824,7 +5750,6 @@
 		},
 		"slidesFileEntryURL": "",
 		"endDate": 1493312400000,
-		"type": 1,
 		"columnBitmask": 0,
 		"titleCurrentLanguageId": null,
 		"approved": true,
@@ -5838,8 +5763,8 @@
 		"marketingEventId": 202579321,
 		"titleCurrentValue": "<span class=\"primary-color\"><b>Cocktail de Networking</b></span>",
 		"keywords": "",
-		"status": 0,
 		"marketingEventSessionId": 215008700,
+		"status": 0,
 		"modelAttributes": {
 			"startDate": 1493307000000,
 			"keywords": "",
@@ -5849,7 +5774,6 @@
 			"marketingEventSessionRoomId": 214990043,
 			"endDate": 1493312400000,
 			"statusDate": 1492090836000,
-			"type": 1,
 			"modifiedDate": 1492090836000,
 			"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">&lt;span class=\"primary-color\">&lt;b>Cocktail de Networking&lt;/b>&lt;/span></Title></root>",
 			"description": "",
@@ -5898,7 +5822,7 @@
 			"zh_CN": "",
 			"de_DE": ""
 		},
-		"cachedModel": true,
+		"cachedModel": false,
 		"originalStatus": 0,
 		"statusDate": 1492090836000,
 		"incomplete": false,
@@ -5933,8 +5857,6 @@
 			"de_DE": ""
 		},
 		"modifiedDate": 1492090836000,
-		"originalType": 1,
-		"typeName": "break",
 		"draft": false,
 		"new": false,
 		"keywordsCurrentValue": "",

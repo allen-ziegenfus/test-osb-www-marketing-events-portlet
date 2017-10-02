@@ -46,7 +46,7 @@ var paths = {
 	commands: "./commands",
 	results: "./results",
 	curl: "./curl"
-}
+};
 
 fs.readdir(paths.commands, function(err, command_files) {
 	command_files.forEach(function(command_file) {

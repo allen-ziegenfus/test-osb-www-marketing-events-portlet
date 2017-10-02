@@ -1,0 +1,12 @@
+{
+	"$event[marketingEventId,titleCurrentValue] = /osb-www-marketing-events-portlet.marketingevent/get-marketing-events": {
+		"type": 1,
+		"start": -1,
+		"end": -1,
+		"$sessions[marketingEventSessionId,titleCurrentValue] = /osb-www-marketing-events-portlet.marketingeventsession/get-marketing-event-sessions": {
+			"@marketingEventId": "$event.marketingEventId",
+			"start": -1,
+			"end": -1
+		}
+	}
+}

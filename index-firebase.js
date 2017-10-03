@@ -47,8 +47,8 @@ var getConfigFile = function(configFile, configDummy) {
 	}
 };
 
-var config = getConfigFile("./config-firebase.json", configDummy);
-var credentials = getConfigFile("./config-firebase-credentials.json", credsDummy);
+var config = getConfigFile("./config-firebase-prod.json", configDummy);
+var credentials = getConfigFile("./config-firebase-credentials-prod.json", credsDummy);
 var configLR = getConfigFile("./config.json", configLRDummy);
 
 
@@ -129,7 +129,7 @@ var queryFirebase = function(eventsWithSessions) {
 							}
 						}
 					}
-					outputResults(eventsWithSessions);
+					outputResults(eventsWithSessions, ratings);
 
 					firebase.auth().signOut();
 				})
@@ -142,8 +142,9 @@ var queryFirebase = function(eventsWithSessions) {
 		});
 };
 
-var outputResults = function(eventsWithSessions) {
+var outputResults = function(eventsWithSessions, ratingsData) {
 
+	fs.writeFileSync(paths.results + "/firebaseOutput.json", JSON.stringify(ratingsData, null, "\t"));
 	fs.writeFileSync(paths.results + "/sessionfavorites.json", JSON.stringify(eventsWithSessions, null, "\t"));
 	var writer = csvWriter();
 	writer.pipe(fs.createWriteStream(paths.results + "/" + 'favoriteCounts.csv'));

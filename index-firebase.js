@@ -64,10 +64,16 @@ liferay.invoke_liferay(configLR, cmd, function(response) {
 
 		var sessions = {};
 		event.sessions.forEach(function(session) {
+
+			var userList = session.marketingEventUsers.map(function(elem) {
+				return elem.firstName + " " + elem.lastName;
+			});
+
 			sessions[session.marketingEventSessionId] = {
 				title: session.titleCurrentValue,
 				countFavorites: 0,
-				ratings: []
+				ratings: [],
+				speakers: userList.join(", ")
 			};
 		});
 
@@ -155,6 +161,7 @@ var outputResults = function(eventsWithSessions, ratingsData) {
 				writer.write({
 					event: eventsWithSessions[event].title,
 					session: session.title,
+					speaker: session.speakers,
 					favorites: session.countFavorites
 				});
 			}
@@ -164,17 +171,32 @@ var outputResults = function(eventsWithSessions, ratingsData) {
 
 	var writer2 = csvWriter();
 	writer2.pipe(fs.createWriteStream(paths.results + "/" + 'sessionRatings.csv'));
+
+	var writer3 = csvWriter();
+	writer3.pipe(fs.createWriteStream(paths.results + "/" + 'sessionRatingsAverages.csv'));
+
 	for (var sessionRatingsEvent in eventsWithSessions) {
 		for (var sessionRatingSessionKey in eventsWithSessions[sessionRatingsEvent].sessions) {
 			var sessionRatingSession = eventsWithSessions[sessionRatingsEvent].sessions[sessionRatingSessionKey];
 			if (sessionRatingSession.ratings.length > 0) {
+				var average = 0;
 				sessionRatingSession.ratings.forEach(function(rating) {
 					writer2.write({
 						event: eventsWithSessions[sessionRatingsEvent].title,
 						session: sessionRatingSession.title,
+						speaker: sessionRatingSession.speakers,
 						feedback: rating.feedback,
 						rating: rating.rating
 					});
+					average += rating.rating;
+				});
+				average = average / sessionRatingSession.ratings.length;
+				writer3.write({
+					event: eventsWithSessions[sessionRatingsEvent].title,
+					session: sessionRatingSession.title,
+					speaker: sessionRatingSession.speakers,
+					numRatings: sessionRatingSession.ratings.length,
+					average: average
 				});
 			}
 		}

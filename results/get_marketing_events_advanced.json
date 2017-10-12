@@ -414,9 +414,17 @@
 				},
 				{
 					"vocabularyName": "Marketing Event Session Topics",
-					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Experiencia de cliente</Title></root>",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Evolución de la estrategia digital</Title></root>",
 					"vocabularyId": 231657007,
-					"name": "Experiencia de cliente",
+					"name": "Evolución de la estrategia digital",
+					"categoryId": 231694474,
+					"properties": {}
+				},
+				{
+					"vocabularyName": "Marketing Event Session Topics",
+					"title": "<?xml version='1.0' encoding='UTF-8'?><root available-locales=\"en_US\" default-locale=\"en_US\"><Title language-id=\"en_US\">Experiencia de cliente unificada</Title></root>",
+					"vocabularyId": 231657007,
+					"name": "Experiencia de cliente unificada",
 					"categoryId": 231665618,
 					"properties": {}
 				},

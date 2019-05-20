@@ -1,5 +1,5 @@
 {
-    "/osb-www-marketing-events-portlet.marketingeventuser/get-marketing-event-users": {
+    "/osb.marketingeventuser/get-marketing-event-users": {
         "marketingEventId": 202579321,
         "start": 0,
         "end": 10

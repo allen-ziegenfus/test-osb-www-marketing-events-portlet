@@ -1,1 +1,1 @@
-curl 'https://www.liferay.com/api/jsonws/invoke'  --data-urlencode 'cmd={"/osb-www-marketing-events-portlet.marketingeventsession/get-marketing-event-sessions":{"marketingEventId":210433178,"start":-1,"end":-1}}'
+curl 'https://www.liferay.com/api/jsonws/invoke'  --data-urlencode 'cmd={"/osb.marketingeventsession/get-marketing-event-sessions":{"marketingEventId":210433178,"start":-1,"end":-1}}'

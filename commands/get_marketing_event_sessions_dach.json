@@ -1,5 +1,5 @@
  {
- 	"/osb-www-marketing-events-portlet.marketingeventsession/get-marketing-event-sessions": {
+ 	"/osb.marketingeventsession/get-marketing-event-sessions": {
  		"marketingEventId": 210433178,
  		"start": -1,
  		"end": -1

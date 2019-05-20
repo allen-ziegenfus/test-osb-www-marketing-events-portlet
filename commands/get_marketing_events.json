@@ -1,5 +1,5 @@
 {
-	"/osb-www-marketing-events-portlet.marketingevent/get-marketing-events": {
+	"/osb.marketingevent/get-marketing-events": {
 		"type": 1,
 		"start": -1,
 		"end": -1

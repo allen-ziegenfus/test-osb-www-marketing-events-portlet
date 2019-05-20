@@ -1,5 +1,5 @@
 {
-    "/osb-www-marketing-events-portlet.marketingeventsponsorlevel/get-marketing-event-sponsor-levels": {
+    "/osb.marketingeventsponsorlevel/get-marketing-event-sponsor-levels": {
         "marketingEventId": 202579321,
         "start": 0,
         "end": 1

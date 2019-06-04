@@ -1,42 +1,42 @@
 [
 	{
 		"createDate": 1502145133000,
-		"imageFileEntryId": 0,
+		"imageFileEntryId": "0",
 		"imageFileEntryURL": "",
 		"modifiedDate": 1502145190000,
 		"name": "LinkedIn",
-		"socialLinkTypeId": 231611118,
-		"userId": 231399298,
+		"socialLinkTypeId": "231611118",
+		"userId": "231399298",
 		"userName": "Junko Teramoto"
 	},
 	{
 		"createDate": 1502145142000,
-		"imageFileEntryId": 0,
+		"imageFileEntryId": "0",
 		"imageFileEntryURL": "",
 		"modifiedDate": 1502145142000,
 		"name": "Twitter",
-		"socialLinkTypeId": 231611119,
-		"userId": 231399298,
+		"socialLinkTypeId": "231611119",
+		"userId": "231399298",
 		"userName": "Junko Teramoto"
 	},
 	{
 		"createDate": 1502145159000,
-		"imageFileEntryId": 0,
+		"imageFileEntryId": "0",
 		"imageFileEntryURL": "",
 		"modifiedDate": 1502145159000,
 		"name": "Facebook",
-		"socialLinkTypeId": 231611120,
-		"userId": 231399298,
+		"socialLinkTypeId": "231611120",
+		"userId": "231399298",
 		"userName": "Junko Teramoto"
 	},
 	{
 		"createDate": 1506986853000,
-		"imageFileEntryId": 0,
+		"imageFileEntryId": "0",
 		"imageFileEntryURL": "",
 		"modifiedDate": 1506986853000,
 		"name": "Instagram",
-		"socialLinkTypeId": 231681026,
-		"userId": 231399298,
+		"socialLinkTypeId": "231681026",
+		"userId": "231399298",
 		"userName": "Junko Teramoto"
 	}
 ]

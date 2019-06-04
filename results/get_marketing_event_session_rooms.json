@@ -1,10 +1,10 @@
 [
 	{
 		"createDate": 1485423247000,
-		"imageFileEntryId": 0,
+		"imageFileEntryId": "0",
 		"imageFileEntryURL": "",
-		"marketingEventId": 202579321,
-		"marketingEventSessionRoomId": 214989963,
+		"marketingEventId": "202579321",
+		"marketingEventSessionRoomId": "214989963",
 		"modifiedDate": 1485423247000,
 		"name": "Salon Maillot"
 	}

@@ -1,14 +1,14 @@
 [
 	{
 		"createDate": 1502145946000,
-		"marketingEventUserId": 231611104,
+		"marketingEventUserId": "231611104",
 		"modifiedDate": 1502145946000,
-		"socialLinkId": 231611121,
-		"socialLinkTypeId": 231611119,
+		"socialLinkId": "231611121",
+		"socialLinkTypeId": "231611119",
 		"socialLinkTypeImageFileEntryURL": "",
 		"socialLinkTypeName": "Twitter",
 		"url": "https://twitter.com/brettswaim",
-		"userId": 231399298,
+		"userId": "231399298",
 		"userName": "Junko Teramoto"
 	}
 ]

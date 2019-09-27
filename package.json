@@ -10,9 +10,12 @@
 	"license": "ISC",
 	"dependencies": {
 		"csv-write-stream": "^2.0.0",
-		"firebase": "^4.4.0",
+		"firebase": "^7.0.0",
 		"liferay-json": "https://github.com/allen-ziegenfus/liferay-json",
 		"minimist": "^1.2.0",
 		"winston": "^2.2.0"
+	},
+	"devDependencies": {
+		"mapred": "^0.1.0"
 	}
 }
